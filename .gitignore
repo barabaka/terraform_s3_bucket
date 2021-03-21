@@ -1,0 +1,12 @@
+# terraform
+.terraform
+.terraform.lock.*
+*.tfstate
+*.tfstate.backup
+*.tfstate.lock.info
+
+# custom policy file
+policy.json
+
+# intellij
+.idea
